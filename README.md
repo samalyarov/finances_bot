@@ -1,6 +1,8 @@
 # Finances logging bot
-
 A simple script that uses telegram bot API in order to create a simple transaction logging process. 
+
+![image](https://github.com/samalyarov/finances_bot/assets/107198574/140060d5-958b-4e55-8fff-8c39adc8d623)
+
 - Telegram bot acts as an input point for data (collecting required data through a series of questions utilizing context menus).
 - Values for different menus for display are copied from a Google Spreadsheet (from technical sheet), whilst another sheet acts as a 'bot input sheet', onto which the script records the data recieved.
 - The script also requires a file or a screenshot as a transaction confirmation (ideally - a screenshot from a banking app) that gets stored in a designated Google Drive folder.
