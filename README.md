@@ -1,5 +1,5 @@
 # Finances logging bot
-A simple script that uses telegram bot API in order to create a simple transaction logging process. 
+A simple script that uses telegram bot API in order to record transactions into Google Spreadsheet of choice. 
 
 ![image](https://github.com/samalyarov/finances_bot/assets/107198574/140060d5-958b-4e55-8fff-8c39adc8d623)
 
